@@ -4,6 +4,9 @@
         "psr-0": {
             "Amazon" : "src/"
         } 
-    }
+    },
+    "include-path": [
+        "src/"
+    ],
 }
 
