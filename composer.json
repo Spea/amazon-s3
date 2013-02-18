@@ -5,6 +5,6 @@
             "Amazon" : "src/"
         },
         "classmap": ["src/Amazon/S3.php"]
-    },
+    }
 }
 
