@@ -3,10 +3,8 @@
     "autoload": {
         "psr-0": {
             "Amazon" : "src/"
-        } 
+        },
+        "classmap": ["src/Amazon/S3.php"]
     },
-    "include-path": [
-        "src/"
-    ]
 }
 
